@@ -1,0 +1,14 @@
+h1, h2 {
+    text-align: center;
+
+}
+
+h2 {
+    margin: 3rem 0;
+}
+
+.buttonDiv {
+    width: 100%;
+    text-align: center;
+    margin: 5rem 0;
+}
